@@ -1,3 +1,3 @@
 # hi
 Website
-git clone https://github.com/pink-sedction/mediator
+git clone https://github.com/pink-section/mediator
